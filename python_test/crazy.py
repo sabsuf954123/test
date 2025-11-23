@@ -1,6 +1,6 @@
 nol = True
 accumulate = 0
-while lol:
+while nol:
     print("BITCHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES")
     accumulate += 1
     if accumulate == 1000:
